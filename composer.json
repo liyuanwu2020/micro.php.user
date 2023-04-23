@@ -1,0 +1,15 @@
+{
+    "require": {
+        "grpc/grpc": "^1.52",
+        "google/protobuf": "^3.22",
+        "ext-grpc": "*",
+        "mszlu/pb": "^1.0",
+        "alibaba/nacos": "^1.0"
+    },
+    "repositories": {
+        "private-packagist": {
+            "type": "composer",
+            "url": "https://repo.packagist.com/mszlu-timer/"
+        }
+    }
+}
